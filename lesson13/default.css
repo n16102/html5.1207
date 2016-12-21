@@ -1,0 +1,17 @@
+div {
+	width: 200px;
+	height: 200px;	 
+/*background-image:
+	radial-gradient(skyblue, blue);*/
+ /*background-image:
+  radila-gradient(at 30px 40xpx skyblue, blue);*/
+ /*background-image:
+	radial-gradient(ellipse 20px 30px at 30px 40px, skyblue, blue);*/
+	 /*background-image:
+	 radial-gradient(circle 20px at30px 40px, skyblue, blue);*/
+	/*background-image:
+	 radial-gradient(farthest-side at 30px 40px, skyblue 70%, blue);*/
+ background-image:
+	repeating-radial-gradient(skyblue, blue 20px);
+
+}
